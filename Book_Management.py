@@ -1,6 +1,6 @@
 
 books={"allen B.Downey","Jeff Elkner","Chris Meyers","Luciano Ramalho"}
-available_books={"allen B.Downey","Jeff Elkner","Chris Meyers","Luciano Ramalho","Mike MmGrath","David Griffiths","Dawn Griffiths","greg Perry"}
+available_books={"allen B.Downey","Jeff Elkner","Chris Meyers","Luciano Ramalho","Mike MmGrath","David Griffiths","Dawn Griffiths","Greg Perry"}
 issue_books=set()
 def available_book():
     #provided_book=books & available_books
